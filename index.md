@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog_Tongji University"
+title: "三不杂话馆"
+date: 2021-05-07
 ---
 
-I'm glad you are here. I plan to talk about some research about NDT of timber structures
+Welcome here. I plan to talk about some research about NDT of timber structures.
